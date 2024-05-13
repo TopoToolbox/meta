@@ -1,2 +1,1 @@
-# meta
-Various internal documentation for TopoToolbox
+This repository hosts [the GitHub Discussions for TopoToolbox 3](https://github.com/orgs/TopoToolbox/discussions) so that the discussions for all of the various packages can be found in a single location.
